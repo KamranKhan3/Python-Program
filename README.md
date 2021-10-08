@@ -1,2 +1,2 @@
 # Python-Program
-This is my 1st project
+This is my 1st python project
